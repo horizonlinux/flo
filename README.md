@@ -1,2 +1,2 @@
 # flo
-Flo voice assistant for weOS.
+Flo is the Voice Assistant for weOS.
