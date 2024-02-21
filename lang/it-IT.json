@@ -1,0 +1,16 @@
+{
+    "lang_info": {
+        "lang_user": "Italian",
+        "lang_code": "it"
+    },
+    "customplugins_warning": "⚠️ Attenzione! I plugin personalizzati sono attivi! Non verrà dato supporto.",
+    "selectedvoice": "Voce selezionata:",
+    "listening": "[!] Ascoltando...",
+    "received": "[!] Ricevuto!",
+    "waitingforresponse": "[!] Generando una risposta...",
+    "receivedresponse": "[!] Risposta generata!",
+    "generating_audio": "[!] Genero audio...",
+    "music_play_voice": "Ora in riproduzione: ",
+    "music_play_voice_2": "pubblicato da ",
+    "done": "[!] Fatto!"
+}

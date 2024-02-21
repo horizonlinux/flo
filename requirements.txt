@@ -1,0 +1,4 @@
+requests
+elevenlabs
+rainbowtext
+SpeechRecognition

@@ -1,0 +1,14 @@
+{
+    "lang_info": {
+        "lang_user": "English (US)",
+        "lang_code": "en-US"
+    },
+    "customplugins_warning": "⚠️ Custom Plugins are enabled! No support is provided.",
+    "selectedvoice": "Selected voice:",
+    "listening": "[!] Listening...",
+    "received": "[!] Received!",
+    "waitingforresponse": "[!] Waiting for Flo response...",
+    "receivedresponse": "[!] Received Flo response!",
+    "generating_audio": "[!] Generating audio...",
+    "done": "[!] Done!"
+}

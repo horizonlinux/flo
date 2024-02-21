@@ -1,0 +1,14 @@
+{
+    "lang_info": {
+        "lang_user": "Polish",
+        "lang_code": "pl"
+    },
+    "customplugins_warning": "⚠️ Niestandardowe Wtyczki są włączone! Nie udzielamy pomocy z nimi.",
+    "selectedvoice": "Wybrany głos:",
+    "listening": "[!] Słucham...",
+    "received": "[!] Otrzymano!",
+    "waitingforresponse": "[!] Czekanie, by Flo odpowiedziała...",
+    "receivedresponse": "[!] Otrzymano odpowiedź Flo!",
+    "generating_audio": "[!] Generowanie dźwięku...",
+    "done": "[!] Gotowe!"
+}
