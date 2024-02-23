@@ -2,3 +2,8 @@ requests
 elevenlabs
 rainbowtext
 SpeechRecognition
+pytube
+youtube_search
+pygame
+googletrans==3.1.0a0
+colorama
