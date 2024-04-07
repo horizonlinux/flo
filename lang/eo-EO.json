@@ -1,0 +1,16 @@
+{
+    "lang_info": {
+        "lang_user": "Esperanto",
+        "lang_code": "eo"
+    },
+    "customplugins_warning": "⚠️ Atentu! La kromaĵoj personecigitaj estas aktivaj! Neniu subteno estos donita.",
+    "selectedvoice": "Voĉo elektita:",
+    "listening": "[!] Aŭskultanta...",
+    "received": "[!] Komprenita!",
+    "waitingforresponse": "[!] Generante respondon...",
+    "receivedresponse": "[!] Respondo generita!",
+    "generating_audio": "[!] Mi generas audion...",
+    "music_play_voice": "Nun ludi: ",
+    "music_play_voice_2": "eldonita de ",
+    "done": "[!] Finite!"
+}
